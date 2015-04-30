@@ -1,0 +1,8 @@
+*.iml
+selling-services/MyDbTest/**
+*.log
+selling-routes/activemq.data/**
+**/target/**
+selling-routes/hawtio/hawtio.war
+
+.idea/**
